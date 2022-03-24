@@ -443,6 +443,8 @@
 
 .fi-warning:before,
 
+.fi-weight:before,
+
 .fi-wifi:before,
 
 .fi-wrench:before,
@@ -1367,6 +1369,10 @@
 
 .fi-warning:before {
   content:'\e0d8';
+}
+
+.fi-weight:before {
+  content:'\eada';
 }
 
 .fi-wifi:before {
